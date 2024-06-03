@@ -1,0 +1,23 @@
+style,>
+title{}
+
+nav a{
+    color: #0d6efd;
+    text-decoration: none;
+    padding: 21px;
+    width: 100%;
+    text-align: center;
+    margin-left: 5px;
+}
+
+/*
+nav a:hover {
+    transition: linear;
+    transition-duration: 0.3s;
+    width: 100%;
+    background-color: #0d6efd;
+    border-radius: 10px 10px 0 0;
+    color: #b6ebb3;
+
+</style>}
+*/
